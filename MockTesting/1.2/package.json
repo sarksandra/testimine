@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "jest",
+    "test:e2e": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "jest": "^30.2.0"
+  }
+}
